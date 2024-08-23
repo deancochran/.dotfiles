@@ -8,6 +8,7 @@ tap "homebrew/cask-fonts"
 
 
 # Brews
+brew "coreutils"
 brew "github-keygen"
 brew "gnupg"
 brew "pinentry-mac"
@@ -27,17 +28,22 @@ brew "pyenv"
 brew "docker-compose"
 brew "mkcert"
 brew "neovim"
+brew "ninja"
+brew "gradle"
+brew "ffmpeg"
 brew "starship"
 
 # Casks
 cask "font-hack-nerd-font"
 cask "iterm2"
 cask "docker"
-
-
-
-
-
+cask "cmake"
+cask "raspberry-pi-imager"
+cask "discord"
+cask "slack"
+cask "spotify"
+cask "obs"
+cask "inkscape"
 
 
 
